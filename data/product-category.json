@@ -1,0 +1,125 @@
+{
+    "ProductCategories": [
+        {
+            "options": [
+                "Select One"
+            ]
+        },
+        {
+            "category": "Fresh Produce",
+            "options": [
+                "Fruits",
+                "Vegetables",
+                "Herbs",
+                "Organic Produce"
+            ]
+        },
+        {
+            "category": "Bakery",
+            "options": [
+                "Bread",
+                "Pastries",
+                "Cakes",
+                "Muffins"
+            ]
+        },
+        {
+            "category": "Dairy & Eggs",
+            "options": [
+                "Milk",
+                "Cheese",
+                "Yogurt",
+                "Butter",
+                "Eggs"
+            ]
+        },
+        {
+            "category": "Meat & Seafood",
+            "options": [
+                "Beef",
+                "Pork",
+                "Chicken",
+                "Fish",
+                "Shellfish"
+            ]
+        },
+        {
+            "category": "Frozen Foods",
+            "options": [
+                "Frozen Vegetables",
+                "Frozen Meals",
+                "Ice Cream",
+                "Frozen Meat"
+            ]
+        },
+        {
+            "category": "Pantry / Dry Goods",
+            "options": [
+                "Rice",
+                "Pasta",
+                "Canned Goods",
+                "Flour & Sugar",
+                "Spices & Seasonings"
+            ]
+        },
+        {
+            "category": "Beverages",
+            "options": [
+                "Soft Drinks",
+                "Juice",
+                "Water",
+                "Coffee & Tea",
+                "Alcoholic Beverages"
+            ]
+        },
+        {
+            "category": "Snacks & Confectionery",
+            "options": [
+                "Chips & Crisps",
+                "Chocolate",
+                "Candy",
+                "Nuts & Seeds"
+            ]
+        },
+        {
+            "category": "Health & Wellness",
+            "options": [
+                "Vitamins & Supplements",
+                "Protein & Nutrition",
+                "Personal Care"
+            ]
+        },
+        {
+            "category": "Household & Cleaning",
+            "options": [
+                "Cleaning Supplies",
+                "Laundry",
+                "Paper Products",
+                "Trash Bags"
+            ]
+        },
+        {
+            "category": "Baby & Kids",
+            "options": [
+                "Baby Food",
+                "Diapers",
+                "Baby Care",
+                "Toys & Games"
+            ]
+        },
+        {
+            "category": "Pet Supplies",
+            "options": [
+                "Pet Food",
+                "Pet Toys",
+                "Pet Care"
+            ]
+        },
+        {
+            "category": "Others",
+            "options": [
+                "Others"
+            ]
+        }
+    ]
+}

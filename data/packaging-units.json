@@ -1,0 +1,103 @@
+{
+    "PackagingUnits": [
+        {
+            "options": [
+                "Select One"
+            ]
+        },
+        {
+            "category": "Individual / Loose",
+            "options": [
+                "Each"
+            ]
+        },
+        {
+            "category": "Small Packs",
+            "options": [
+                "Packet",
+                "Pouch",
+                "Sachet",
+                "Wrap / Wrapper"
+            ]
+        },
+        {
+            "category": "Cans & Bottles",
+            "options": [
+                "Tin / Can",
+                "Bottle",
+                "Jar"
+            ]
+        },
+        {
+            "category": "Cartons & Boxes",
+            "options": [
+                "Carton",
+                "Box",
+                "Tray"
+            ]
+        },
+        {
+            "category": "Multipacks",
+            "options": [
+                "Pack",
+                "6-Pack",
+                "12-Pack",
+                "Bundle"
+            ]
+        },
+        {
+            "category": "Bags & Sacks",
+            "options": [
+                "Bag",
+                "Pouch Bag",
+                "Sack"
+            ]
+        },
+        {
+            "category": "Special",
+            "options": [
+                "Tub",
+                "Cup",
+                "Roll",
+                "Tray Pack",
+                "Stick / Bar"
+            ]
+        },
+        {
+            "category": "Weight-Based (Metric)",
+            "options": [
+                "Gram (g)",
+                "Kilogram (kg)"
+            ]
+        },
+        {
+            "category": "Volume-Based (Metric)",
+            "options": [
+                "Millilitre (ml)",
+                "Litre (L)"
+            ]
+        },
+        {
+            "category": "Weight-Based (Imperial)",
+            "options": [
+                "Ounce (oz)",
+                "Pound (lb)"
+            ]
+        },
+        {
+            "category": "Volume-Based (Imperial)",
+            "options": [
+                "Fluid Ounce (fl oz)",
+                "Pint (pt)",
+                "Quart (qt)",
+                "Gallon (gal)"
+            ]
+        },
+        {
+            "category": "Others",
+            "options": [
+                "Others"
+            ]
+        }
+    ]
+}
